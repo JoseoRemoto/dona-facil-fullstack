@@ -1,6 +1,6 @@
 # DonaFacilFront
 
-Dona Facil's frontend is a responsive and user-friendly interface built with React and Next.js. It aims to deliver a seamless and engaging user experience, enabling users to effortlessly manage their accounts, list items, and interact with the community. This repository encompasses all the frontend code, including UI components, state management, and integration with the backend APIs.
+Dona Facil's frontend is a responsive and user-friendly interface built with Next.js. It aims to deliver a seamless and engaging user experience, enabling users to effortlessly manage their accounts, list items, and interact with the community. This repository encompasses all the frontend code, including UI components, state management, and integration with the backend APIs.
 
 ## Overview
 
