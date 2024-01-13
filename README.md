@@ -11,12 +11,6 @@ The frontend of Dona Facil is designed to offer a smooth and intuitive user expe
 - **API Integration**: Seamless connection with the backend for data retrieval and manipulation.
 - **Responsive Design**: Adapts to various screen sizes and devices to ensure accessibility.
 
-## Technologies Used
-
-- **Framework**: React with Next.js for server-side rendering and routing.
-- **State Management**: Context API/Redux for global state management.
-- **Styling**: Utilizes CSS-in-JS libraries or traditional CSS/Sass.
-
 ## Tools
 
 We utilize the following tools to enhance the functionality and performance of DonaFacilFront:
