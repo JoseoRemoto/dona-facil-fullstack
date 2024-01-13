@@ -21,7 +21,7 @@ We utilize the following tools to enhance the functionality and performance of D
 - **React Hook Form**: For streamlined form management in React.
 - **Zod**: Ensuring robust data validation.
 - **Tailwind CSS**: Providing utility-first styling.
-- **Radix UI**: Enhancing UI components and interactions.
+- **Shadcn/ui**: Enhancing UI components and interactions.
 - **Vercel**: For seamless deployment and hosting.
 
 Feel free to explore and contribute to the DonaFacilFront project!
