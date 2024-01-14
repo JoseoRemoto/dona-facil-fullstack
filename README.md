@@ -1,6 +1,6 @@
-# DonaFacilFront
+# DonaFacil
 
-Dona Facil's full-stack application is a responsive and user-friendly interface built with Next.js. It aims to deliver a seamless and engaging user experience, enabling users to effortlessly manage their accounts, list items, and interact with the community. This repository encompasses all the frontend code, including UI components, state management, and integration with the backend APIs.
+Dona Facil's full-stack application is a responsive and user-friendly interface built with Next.js. It aims to deliver a seamless and engaging user experience, enabling users to effortlessly manage their accounts, list items, and interact with the community. This repository encompasses all the code.
 
 ## Overview
 
@@ -13,7 +13,7 @@ Dona Facil is designed to offer a smooth and intuitive user experience. Key feat
 
 ## Tools
 
-We utilize the following tools to enhance the functionality and performance of DonaFacilFront:
+We utilize the following tools to enhance the functionality and performance of DonaFacil:
 
 - **Next.js**: For efficient server-side rendering and routing.
 - **Typescript**: A superset of JavaScript that adds optional static typing, enhancing code maintainability, readability, and tooling support.
